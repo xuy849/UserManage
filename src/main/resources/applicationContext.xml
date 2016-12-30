@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.3.xsd
+                           http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+                           http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+                           http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <context:property-placeholder location="classpath:jdbc.properties"></context:property-placeholder>
+    <context:component-scan base-package="com.liu"></context:component-scan>
+
+    <aop:config expose-proxy="true">
+        <aop:pointcut id="servicePointcut" expression="execution(* *..*ServiceImpl.*(..))"/>
+        <aop:advisor advice-ref="serviceInterceptor" pointcut-ref="servicePointcut"/>
+    </aop:config>
+
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="${jdbc.driver}"></property>
+        <property name="url" value="${jdbc.url}"></property>
+        <property name="username" value="${jdbc.username}"></property>
+        <property name="password" value="${jdbc.password}"></property>
+    </bean>
+
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"></property>
+        <property name="typeAliasesPackage" value="com.liu.dto"></property>
+        <property name="mapperLocations" value="classpath*:*Mapper.xml"></property>
+    </bean>
+
+
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="com.liu.mapper" />
+    </bean>
+
+    <bean id="commandManager" class="com.liu.command.CommandManager">
+        <property name="commands">
+            <map>
+                <entry key="show" value-ref="showHandler"></entry>
+            </map>
+        </property>
+    </bean>
+
+    <bean id="validator" class="org.springframework.validation.beanvalidation.LocalValidatorFactoryBean">
+        <property name="providerClass" value="org.hibernate.validator.HibernateValidator"></property>
+    </bean>
+
+    <bean id="commandParser" class="com.liu.command.CommandParser">
+        <property name="parserMap">
+            <map>
+                <entry key="show" value-ref="showParser"></entry>
+            </map>
+        </property>
+    </bean>
+</beans>

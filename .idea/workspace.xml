@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f44fe04a-d561-4f13-94eb-e8cc1315b5c7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HibernateValidator.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/HibernateValidator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Range.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraints/Range.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParameterScriptAssert.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraints/ParameterScriptAssert.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Email.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraints/Email.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HibernateConstraintValidatorContext.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraintvalidation/HibernateConstraintValidatorContext.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-94">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Properties.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Properties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="340" column="0" lean-forward="false" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidationProvider.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar!/javax/validation/spi/ValidationProvider.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/GitHub/azkaban" value="13253483704830" />
+        <entry key="D:/workspace/java/HDispatch" value="5918283345269" />
+        <entry key="E:/Github/azkaban" value="13287122967507" />
+        <entry key="E:/Github/other/azkaban" value="14763423796583" />
+        <entry key="E:/Github/spring-framework" value="5918782651176" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/mapper/UserInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/service/UserInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/mapper/BaseMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/validator/UserValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/service/impl/UserInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/Handler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/ShowHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/dto/UserInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/CommandParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/ShowParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/ShowCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/UserInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/command/CommandManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/aop/ServiceIterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/aop/ServiceInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/event/QueryEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/QueryListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/dto/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/liu/App.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\hasee\.m2\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="UserManage" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="UserManage" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.springframework:spring-context:4.3.5.RELEASE" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="UserManage" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resourceloading" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="path" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameternameprovider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="messageinterpolation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="internal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="group" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constraintvalidators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constraintvalidation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="constraints" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hibernate-validator-5.2.4.Final.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="validator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserManage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="ApplicationContext&#9;PSI&#9;JAVA://org.springframework.context.ApplicationContext&#10;Object&#9;PSI&#9;JAVA://java.lang.Object" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\UserManage\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.liu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.liu.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UserManage" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="UserManage" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.App" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\刘能\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f44fe04a-d561-4f13-94eb-e8cc1315b5c7" name="Default" comment="" />
+      <created>1482890629535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482890629535</updated>
+      <workItem from="1482890631711" duration="2758000" />
+      <workItem from="1482893572696" duration="2713000" />
+      <workItem from="1482901123840" duration="143000" />
+      <workItem from="1482902473719" duration="15997000" />
+      <workItem from="1482923433835" duration="1126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22737000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36879432" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30339807" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5407801" sideWeight="0.4935275" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0017730496" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseEJBModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6879433" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17537314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36879432" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959402" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76241136" sideWeight="0.4935275" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0032786885" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseEJBModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7641844" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31553397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/service/impl/UserInfoServiceImpl.java</url>
+          <line>17</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/service/impl/UserServiceImpl.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/QueryListener.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/App.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/App.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar!/org/aopalliance/aop/Advice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar!/org/aopalliance/intercept/Interceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar!/org/aopalliance/intercept/ConstructorInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar!/org/aopalliance/intercept/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="211" column="33" lean-forward="false" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="168" column="17" lean-forward="false" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.jar!/org/springframework/aop/config/spring-aop-4.3.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/UserInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <marker date="1482913514356" expanded="true" signature="258:346" ph="UPDATE `user... " />
+            <marker date="1482913514356" expanded="true" signature="258:392" ph="UPDATE `user... " />
+            <marker date="1482913514356" expanded="true" signature="258:393" ph="UPDATE `user... " />
+            <marker date="1482913514356" expanded="true" signature="462:530" ph="DELETE FROM " />
+            <marker date="1482913514356" expanded="true" signature="579:669" ph="INSERT INTO `userinfo`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.util.Base64Utils</node>
+            <node x="" y="">org.springframework.expression.ExpressionException</node>
+            <node x="" y="">org.springframework.validation.Validator</node>
+            <node x="" y="">org.springframework.util.WeakReferenceMonitor.MonitoringProcess</node>
+            <node x="" y="">org.springframework.context.ApplicationContextException</node>
+            <node x="" y="">org.springframework.validation.BindingErrorProcessor</node>
+            <node x="" y="">org.springframework.ui.Model</node>
+            <node x="" y="">org.springframework.transaction.TransactionSystemException</node>
+            <node x="" y="">org.springframework.jmx.JmxException</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.WeakEntryReference</node>
+            <node x="" y="">org.springframework.dao.TransientDataAccessException</node>
+            <node x="" y="">org.springframework.util.comparator</node>
+            <node x="" y="">org.springframework.asm.FieldVisitor</node>
+            <node x="" y="">org.springframework.beans.factory</node>
+            <node x="" y="">org.springframework.core.Constants</node>
+            <node x="" y="">org.springframework.util.AntPathMatcher</node>
+            <node x="" y="">org.springframework.transaction.CannotCreateTransactionException</node>
+            <node x="" y="">org.springframework.core.NestedExceptionUtils</node>
+            <node x="" y="">org.springframework.dao.NonTransientDataAccessException</node>
+            <node x="" y="">org.springframework.remoting.RemoteInvocationFailureException</node>
+            <node x="" y="">org.springframework.util.PropertyPlaceholderHelper</node>
+            <node x="" y="">org.springframework.aop.aspectj</node>
+            <node x="" y="">org.springframework.beans.AbstractNestablePropertyAccessor.PropertyTokenHolder</node>
+            <node x="" y="">org.springframework.format.annotation</node>
+            <node x="" y="">org.springframework.format.Parser</node>
+            <node x="" y="">org.springframework.util.StopWatch</node>
+            <node x="" y="">org.springframework.core.PriorityOrdered</node>
+            <node x="" y="">org.springframework.ejb.interceptor</node>
+            <node x="" y="">org.springframework.transaction.NoTransactionException</node>
+            <node x="" y="">org.springframework.scripting.ScriptCompilationException</node>
+            <node x="" y="">org.springframework.transaction.annotation</node>
+            <node x="" y="">org.springframework.aop.TrueClassFilter</node>
+            <node x="" y="">org.springframework.core.Ordered</node>
+            <node x="" y="">org.springframework.dao.ConcurrencyFailureException</node>
+            <node x="" y="">org.springframework.jdbc.LobRetrievalFailureException</node>
+            <node x="" y="">org.springframework.core.LocalVariableTableParameterNameDiscoverer.LocalVariableTableVisitor</node>
+            <node x="" y="">org.springframework.core.io</node>
+            <node x="" y="">org.springframework.format.Printer</node>
+            <node x="" y="">org.springframework.core.ResolvableTypeProvider</node>
+            <node x="" y="">org.springframework.jndi.JndiObjectFactoryBean.JndiContextExposingInterceptor</node>
+            <node x="" y="">org.springframework.beans.BeanMetadataAttribute</node>
+            <node x="" y="">org.springframework.scripting.ScriptEvaluator</node>
+            <node x="" y="">org.springframework.beans.ExtendedBeanInfo.PropertyDescriptorComparator</node>
+            <node x="" y="">org.springframework.beans.support</node>
+            <node x="" y="">org.springframework.stereotype.Service</node>
+            <node x="" y="">org.springframework.cache.CacheManager</node>
+            <node x="" y="">org.springframework.util.AntPathMatcher.PathSeparatorPatternCache</node>
+            <node x="" y="">org.springframework.jdbc.core</node>
+            <node x="" y="">org.springframework.jca.endpoint</node>
+            <node x="" y="">org.springframework.expression.TypedValue</node>
+            <node x="" y="">org.springframework.format.datetime</node>
+            <node x="" y="">org.springframework.scheduling.config</node>
+            <node x="" y="">org.springframework.core.NamedInheritableThreadLocal</node>
+            <node x="" y="">org.springframework.cglib.proxy</node>
+            <node x="" y="">org.springframework.core.DecoratingProxy</node>
+            <node x="" y="">org.springframework.beans.BeansException</node>
+            <node x="" y="">org.springframework.context.config</node>
+            <node x="" y="">org.springframework.util.SimpleIdGenerator</node>
+            <node x="" y="">org.springframework.expression.TypeComparator</node>
+            <node x="" y="">org.springframework.util.IdGenerator</node>
+            <node x="" y="">org.springframework.aop.ClassFilter</node>
+            <node x="" y="">org.springframework.util.Base64Utils.JdkBase64Delegate</node>
+            <node x="" y="">org.springframework.aop.IntroductionAwareMethodMatcher</node>
+            <node x="" y="">org.springframework.beans.PropertyMatches.BeanPropertyMatches</node>
+            <node x="" y="">org.springframework.asm.MethodVisitor</node>
+            <node x="" y="">org.springframework.aop.AfterReturningAdvice</node>
+            <node x="" y="">org.springframework.core.GenericCollectionTypeResolver</node>
+            <node x="" y="">org.springframework.core.LocalVariableTableParameterNameDiscoverer.ParameterNameDiscoveringVisitor</node>
+            <node x="" y="">org.springframework.scheduling.SchedulingAwareRunnable</node>
+            <node x="" y="">org.springframework.asm.SpringAsmInfo</node>
+            <node x="" y="">org.springframework.core.Conventions</node>
+            <node x="" y="">org.springframework.expression.MethodResolver</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.Restructure</node>
+            <node x="" y="">org.springframework.beans.AbstractNestablePropertyAccessor.PropertyHandler</node>
+            <node x="" y="">org.springframework.ejb.access</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.Segment</node>
+            <node x="" y="">org.springframework.beans.PropertyBatchUpdateException</node>
+            <node x="" y="">org.springframework.aop.BeforeAdvice</node>
+            <node x="" y="">org.springframework.expression.ConstructorExecutor</node>
+            <node x="" y="">org.springframework.remoting.RemoteConnectFailureException</node>
+            <node x="" y="">org.springframework.core.SpringProperties</node>
+            <node x="" y="">org.springframework.scheduling.SchedulingException</node>
+            <node x="" y="">org.springframework.asm.Handle</node>
+            <node x="" y="">org.springframework.core.ConfigurableObjectInputStream</node>
+            <node x="" y="">org.springframework.util.ResizableByteArrayOutputStream</node>
+            <node x="" y="">org.springframework.util.AutoPopulatingList</node>
+            <node x="" y="">org.springframework.core.ControlFlow</node>
+            <node x="" y="">org.springframework.beans.ExtendedBeanInfo.SimpleIndexedPropertyDescriptor</node>
+            <node x="" y="">org.springframework.core.serializer</node>
+            <node x="" y="">org.springframework.asm.Context</node>
+            <node x="" y="">org.springframework.expression.TypeConverter</node>
+            <node x="" y="">org.springframework.transaction.UnexpectedRollbackException</node>
+            <node x="" y="">org.springframework.dao.support</node>
+            <node x="" y="">org.springframework.util.FileSystemUtils</node>
+            <node x="" y="">org.springframework.core.LocalVariableTableParameterNameDiscoverer</node>
+            <node x="" y="">org.springframework.expression.EvaluationContext</node>
+            <node x="" y="">org.springframework.util.PropertyPlaceholderHelper.PlaceholderResolver</node>
+            <node x="" y="">org.springframework.validation.MapBindingResult</node>
+            <node x="" y="">org.springframework.asm.MethodWriter</node>
+            <node x="" y="">org.springframework.core.ErrorCoded</node>
+            <node x="" y="">org.springframework.util.CommonsLogWriter</node>
+            <node x="" y="">org.springframework.ui.ExtendedModelMap</node>
+            <node x="" y="">org.springframework.validation.BindingResultUtils</node>
+            <node x="" y="">org.springframework.beans.BeanUtils</node>
+            <node x="" y="">org.springframework.objenesis.ObjenesisException</node>
+            <node x="" y="">org.springframework.beans.BeanInstantiationException</node>
+            <node x="" y="">org.springframework.lang.UsesSunHttpServer</node>
+            <node x="" y="">org.springframework.beans.PropertyAccessorFactory</node>
+            <node x="" y="">org.springframework.asm.ClassVisitor</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.SoftEntryReference</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.ReferenceType</node>
+            <node x="" y="">org.springframework.cache.config</node>
+            <node x="" y="">org.springframework.beans.PropertyAccessor</node>
+            <node x="" y="">org.springframework.beans.Mergeable</node>
+            <node x="" y="">org.springframework.dao.DeadlockLoserDataAccessException</node>
+            <node x="" y="">org.springframework.aop.TargetClassAware</node>
+            <node x="" y="">org.springframework.expression.spel</node>
+            <node x="" y="">org.springframework.util.StreamUtils.NonClosingInputStream</node>
+            <node x="" y="">org.springframework.remoting.RemoteLookupFailureException</node>
+            <node x="" y="">org.springframework.asm.AnnotationVisitor</node>
+            <node x="" y="">org.springframework.core.ResolvableType.WildcardBounds</node>
+            <node x="" y="">org.springframework.validation.BeanPropertyBindingResult</node>
+            <node x="" y="">org.springframework.core.convert</node>
+            <node x="" y="">org.springframework.beans.TypeConverterDelegate</node>
+            <node x="" y="">org.springframework.transaction.HeuristicCompletionException</node>
+            <node x="" y="">org.springframework.util.StreamUtils</node>
+            <node x="" y="">org.springframework.aop.target</node>
+            <node x="" y="">org.springframework.util.SocketUtils.SocketType</node>
+            <node x="" y="">org.springframework.core.SimpleAliasRegistry</node>
+            <node x="" y="">org.springframework.beans.FatalBeanException</node>
+            <node x="" y="">org.springframework.beans.PropertyMatches</node>
+            <node x="" y="">org.springframework.util.MimeType.SpecificityComparator</node>
+            <node x="" y="">org.springframework.transaction.TransactionUsageException</node>
+            <node x="" y="">org.springframework.jdbc.BadSqlGrammarException</node>
+            <node x="" y="">org.springframework.asm.Attribute</node>
+            <node x="" y="">org.springframework.dao.DuplicateKeyException</node>
+            <node x="" y="">org.springframework.asm.Handler</node>
+            <node x="" y="">org.springframework.dao.RecoverableDataAccessException</node>
+            <node x="" y="">org.springframework.util.ReflectionUtils</node>
+            <node x="" y="">org.springframework.transaction.InvalidTimeoutException</node>
+            <node x="" y="">org.springframework.util.Assert</node>
+            <node x="" y="">org.springframework.core.ParameterNameDiscoverer</node>
+            <node x="" y="">org.springframework.util.StringValueResolver</node>
+            <node x="" y="">org.springframework.dao.annotation</node>
+            <node x="" y="">org.springframework.jdbc.config</node>
+            <node x="" y="">org.springframework.core.annotation</node>
+            <node x="" y="">org.springframework.util.CompositeIterator</node>
+            <node x="" y="">org.springframework.util.NumberUtils</node>
+            <node x="" y="">org.springframework.beans.PropertyEditorRegistrySupport.CustomEditorHolder</node>
+            <node x="" y="">org.springframework.util.CustomizableThreadCreator</node>
+            <node x="" y="">org.springframework.jca.support</node>
+            <node x="" y="">org.springframework.jca.cci</node>
+            <node x="" y="">org.springframework.dao.CleanupFailureDataAccessException</node>
+            <node x="" y="">org.springframework.core.ResolvableType.SyntheticParameterizedType</node>
+            <node x="" y="">org.springframework.core.style</node>
+            <node x="" y="">org.springframework.beans.TypeConverter</node>
+            <node x="" y="">org.springframework.stereotype.Repository</node>
+            <node x="" y="">org.springframework.format.support</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.EntrySet</node>
+            <node x="" y="">org.springframework.core.GenericTypeResolver</node>
+            <node x="" y="">org.springframework.context.expression</node>
+            <node x="" y="">org.springframework.jndi.JndiCallback</node>
+            <node x="" y="">org.springframework.jndi.JndiLookupFailureException</node>
+            <node x="" y="">org.springframework.validation.FieldError</node>
+            <node x="" y="">org.springframework.util.ReflectionUtils.MethodFilter</node>
+            <node x="" y="">org.springframework.transaction.jta</node>
+            <node x="" y="">org.springframework.beans.TypeMismatchException</node>
+            <node x="" y="">org.springframework.lang.UsesSunMisc</node>
+            <node x="" y="">org.springframework.asm.Edge</node>
+            <node x="" y="">org.springframework.transaction.PlatformTransactionManager</node>
+            <node x="" y="">org.springframework.validation.support</node>
+            <node x="" y="">org.springframework.util.CollectionUtils</node>
+            <node x="" y="">org.springframework.cache.interceptor</node>
+            <node x="" y="">org.springframework.aop.interceptor</node>
+            <node x="" y="">org.springframework.jmx.access</node>
+            <node x="" y="">org.springframework.aop.PointcutAdvisor</node>
+            <node x="" y="">org.springframework.aop.support</node>
+            <node x="" y="">org.springframework.expression.ParserContext</node>
+            <node x="" y="">org.springframework.jmx.MBeanServerNotFoundException</node>
+            <node x="" y="">org.springframework.beans.BeanWrapper</node>
+            <node x="" y="">org.springframework.jndi.JndiAccessor</node>
+            <node x="" y="">org.springframework.aop.IntroductionInfo</node>
+            <node x="" y="">org.springframework.transaction.config</node>
+            <node x="" y="">org.springframework.beans.PropertyValuesEditor</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.MethodParameterTypeProvider</node>
+            <node x="" y="">org.springframework.util.MethodInvoker</node>
+            <node x="" y="">org.springframework.format.Formatter</node>
+            <node x="" y="">org.springframework.aop.DynamicIntroductionAdvice</node>
+            <node x="" y="">org.springframework.jdbc.InvalidResultSetAccessException</node>
+            <node x="" y="">org.springframework.util.CollectionUtils.EnumerationIterator</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.SerializableTypeProxy</node>
+            <node x="" y="">org.springframework.aop.SpringProxy</node>
+            <node x="" y="">org.springframework.transaction.event</node>
+            <node x="" y="">org.springframework.core.StandardReflectionParameterNameDiscoverer</node>
+            <node x="" y="">org.springframework.cglib.reflect</node>
+            <node x="" y="">org.springframework.util.CollectionUtils.MultiValueMapAdapter</node>
+            <node x="" y="">org.springframework.remoting.soap</node>
+            <node x="" y="">org.springframework.context.SmartLifecycle</node>
+            <node x="" y="">org.springframework.transaction.support</node>
+            <node x="" y="">org.springframework.util.StopWatch.TaskInfo</node>
+            <node x="" y="">org.springframework.core.type</node>
+            <node x="" y="">org.springframework.transaction.TransactionException</node>
+            <node x="" y="">org.springframework.core.ControlFlowFactory.Jdk14ControlFlow</node>
+            <node x="" y="">org.springframework.context.NoSuchMessageException</node>
+            <node x="" y="">org.springframework.beans.PropertyEditorRegistrySupport</node>
+            <node x="" y="">org.springframework.dao.TypeMismatchDataAccessException</node>
+            <node x="" y="">org.springframework.jndi.JndiObjectFactoryBean.JndiObjectProxyFactory</node>
+            <node x="" y="">org.springframework.aop.TargetSource</node>
+            <node x="" y="">org.springframework.beans.BeanWrapperImpl</node>
+            <node x="" y="">org.springframework.util.AutoPopulatingList.ReflectiveElementFactory</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.MethodInvokeTypeProvider</node>
+            <node x="" y="">org.springframework.validation.DefaultMessageCodesResolver.Format</node>
+            <node x="" y="">org.springframework.core.ResolvableType</node>
+            <node x="" y="">org.springframework.beans.PropertyMatches.FieldPropertyMatches</node>
+            <node x="" y="">org.springframework.beans.PropertyEditorRegistrar</node>
+            <node x="" y="">org.springframework.validation.beanvalidation</node>
+            <node x="" y="">org.springframework.context.annotation</node>
+            <node x="" y="">org.springframework.asm.TypePath</node>
+            <node x="" y="">org.springframework.util.AntPathMatcher.AntPatternComparator.PatternInfo</node>
+            <node x="" y="">org.springframework.dao.UncategorizedDataAccessException</node>
+            <node x="" y="">org.springframework.expression.AccessException</node>
+            <node x="" y="">org.springframework.core.AliasRegistry</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.TypeProxyInvocationHandler</node>
+            <node x="" y="">org.springframework.core.SmartClassLoader</node>
+            <node x="" y="">org.springframework.util.SocketUtils</node>
+            <node x="" y="">org.springframework.cglib.transform</node>
+            <node x="" y="">org.springframework.remoting.support</node>
+            <node x="" y="">org.springframework.util.ConcurrencyThrottleSupport</node>
+            <node x="" y="">org.springframework.beans.ExtendedBeanInfo.SimplePropertyDescriptor</node>
+            <node x="" y="">org.springframework.transaction.TransactionStatus</node>
+            <node x="" y="">org.springframework.beans.NotWritablePropertyException</node>
+            <node x="" y="">org.springframework.beans.ExtendedBeanInfo</node>
+            <node x="" y="">org.springframework.format.FormatterRegistrar</node>
+            <node x="" y="">org.springframework.cache.Cache.ValueWrapper</node>
+            <node x="" y="">org.springframework.jdbc.object</node>
+            <node x="" y="">org.springframework.core.ConstantException</node>
+            <node x="" y="">org.springframework.dao.DataAccessException</node>
+            <node x="" y="">org.springframework.transaction.TransactionDefinition</node>
+            <node x="" y="">org.springframework.util.DigestUtils</node>
+            <node x="" y="">org.springframework.asm.Label</node>
+            <node x="" y="">org.springframework.jdbc.datasource</node>
+            <node x="" y="">org.springframework.context.Phased</node>
+            <node x="" y="">org.springframework.dao.DataRetrievalFailureException</node>
+            <node x="" y="">org.springframework.core.MethodClassKey</node>
+            <node x="" y="">org.springframework.jdbc.SQLWarningException</node>
+            <node x="" y="">org.springframework.util.Base64Utils.Base64Delegate</node>
+            <node x="" y="">org.springframework.core.ResolvableType.WildcardBounds.Kind</node>
+            <node x="" y="">org.springframework.objenesis.strategy</node>
+            <node x="" y="">org.springframework.validation.DataBinder.OptionalUnwrapper</node>
+            <node x="" y="">org.springframework.asm.AnnotationWriter</node>
+            <node x="" y="">org.springframework.beans.ConversionNotSupportedException</node>
+            <node x="" y="">org.springframework.beans.BeanMetadataElement</node>
+            <node x="" y="">org.springframework.jdbc.CannotGetJdbcConnectionException</node>
+            <node x="" y="">org.springframework.asm.TypeReference</node>
+            <node x="" y="">org.springframework.core.GenericTypeResolver.TypeVariableMapVariableResolver</node>
+            <node x="" y="">org.springframework.util.ExceptionTypeFilter</node>
+            <node x="" y="">org.springframework.core.NestedIOException</node>
+            <node x="" y="">org.springframework.jndi.JndiTemplate</node>
+            <node x="" y="">org.springframework.aop.TruePointcut</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.Entries</node>
+            <node x="" y="">org.springframework.stereotype.Component</node>
+            <node x="" y="">org.springframework.asm.ClassReader</node>
+            <node x="" y="">org.springframework.validation.SmartValidator</node>
+            <node x="" y="">org.springframework.aop.AfterAdvice</node>
+            <node x="" y="">org.springframework.asm.ByteVector</node>
+            <node x="" y="">org.springframework.jndi.JndiPropertySource</node>
+            <node x="" y="">org.springframework.beans.NullValueInNestedPathException</node>
+            <node x="" y="">org.springframework.dao.PessimisticLockingFailureException</node>
+            <node x="" y="">org.springframework.jndi.JndiObjectTargetSource</node>
+            <node x="" y="">org.springframework.asm.FieldWriter</node>
+            <node x="" y="">org.springframework.ui.context</node>
+            <node x="" y="">org.springframework.context.access</node>
+            <node x="" y="">org.springframework.cache.support</node>
+            <node x="" y="">org.springframework.dao.TransientDataAccessResourceException</node>
+            <node x="" y="">org.springframework.scripting.support</node>
+            <node x="" y="">org.springframework.objenesis.ObjenesisHelper</node>
+            <node x="" y="">org.springframework.core.InfrastructureProxy</node>
+            <node x="" y="">org.springframework.context.ApplicationEventPublisher</node>
+            <node x="" y="">org.springframework.beans.AbstractNestablePropertyAccessor</node>
+            <node x="" y="">org.springframework.core.ControlFlowFactory</node>
+            <node x="" y="">org.springframework.remoting.RemoteProxyFailureException</node>
+            <node x="" y="">org.springframework.util.ClassUtils</node>
+            <node x="" y="">org.springframework.scheduling.Trigger</node>
+            <node x="" y="">org.springframework.aop.IntroductionAdvisor</node>
+            <node x="" y="">org.springframework.util.UpdateMessageDigestInputStream</node>
+            <node x="" y="">org.springframework.validation.DirectFieldBindingResult</node>
+            <node x="" y="">org.springframework.objenesis.ObjenesisBase</node>
+            <node x="" y="">org.springframework.beans.MethodInvocationException</node>
+            <node x="" y="">org.springframework.core.NamedThreadLocal</node>
+            <node x="" y="">org.springframework.validation.DefaultMessageCodesResolver</node>
+            <node x="" y="">org.springframework.core.AttributeAccessor</node>
+            <node x="" y="">org.springframework.scripting.ScriptSource</node>
+            <node x="" y="">org.springframework.transaction.interceptor</node>
+            <node x="" y="">org.springframework.util.JdkIdGenerator</node>
+            <node x="" y="">org.springframework.dao.DataAccessResourceFailureException</node>
+            <node x="" y="">org.springframework.dao.PermissionDeniedDataAccessException</node>
+            <node x="" y="">org.springframework.instrument.classloading</node>
+            <node x="" y="">org.springframework.context.ApplicationContextAware</node>
+            <node x="" y="">org.springframework.util.FileCopyUtils</node>
+            <node x="" y="">org.springframework.validation.Errors</node>
+            <node x="" y="">org.springframework.util.LinkedCaseInsensitiveMap</node>
+            <node x="" y="">org.springframework.core.DecoratingClassLoader</node>
+            <node x="" y="">org.springframework.aop.scope</node>
+            <node x="" y="">org.springframework.beans.PropertyAccessorUtils</node>
+            <node x="" y="">org.springframework.validation.BindingResult</node>
+            <node x="" y="">org.springframework.expression.Operation</node>
+            <node x="" y="">org.springframework.scripting.ScriptFactory</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap</node>
+            <node x="" y="">org.springframework.aop.IntroductionInterceptor</node>
+            <node x="" y="">org.springframework.util.AntPathMatcher.AntPatternComparator</node>
+            <node x="" y="">org.springframework.beans.BeanMetadataAttributeAccessor</node>
+            <node x="" y="">org.springframework.beans.AbstractNestablePropertyAccessor.OptionalUnwrapper</node>
+            <node x="" y="">org.springframework.util.SystemPropertyUtils</node>
+            <node x="" y="">org.springframework.util.SerializationUtils</node>
+            <node x="" y="">org.springframework.dao.CannotAcquireLockException</node>
+            <node x="" y="">org.springframework.validation.DefaultBindingErrorProcessor</node>
+            <node x="" y="">org.springframework.context.MessageSource</node>
+            <node x="" y="">org.springframework.util.InvalidMimeTypeException</node>
+            <node x="" y="">org.springframework.util.TypeUtils</node>
+            <node x="" y="">org.springframework.beans.MutablePropertyValues</node>
+            <node x="" y="">org.springframework.aop.framework</node>
+            <node x="" y="">org.springframework.context.Lifecycle</node>
+            <node x="" y="">org.springframework.remoting.RemoteTimeoutException</node>
+            <node x="" y="">org.springframework.context.ApplicationEvent</node>
+            <node x="" y="">org.springframework.expression.ExpressionParser</node>
+            <node x="" y="">org.springframework.validation.AbstractPropertyBindingResult</node>
+            <node x="" y="">org.springframework.jndi.TypeMismatchNamingException</node>
+            <node x="" y="">org.springframework.transaction.NestedTransactionNotSupportedException</node>
+            <node x="" y="">org.springframework.context.HierarchicalMessageSource</node>
+            <node x="" y="">org.springframework.util.Log4jConfigurer</node>
+            <node x="" y="">org.springframework.util.SystemPropertyUtils.SystemPropertyPlaceholderResolver</node>
+            <node x="" y="">org.springframework.beans.annotation</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.DefaultTypeProvider</node>
+            <node x="" y="">org.springframework.objenesis.instantiator</node>
+            <node x="" y="">org.springframework.util.DefaultPropertiesPersister</node>
+            <node x="" y="">org.springframework.expression.MethodFilter</node>
+            <node x="" y="">org.springframework.util.MimeType</node>
+            <node x="" y="">org.springframework.util.AntPathMatcher.AntPathStringMatcher</node>
+            <node x="" y="">org.springframework.validation.ObjectError</node>
+            <node x="" y="">org.springframework.core.MethodParameter</node>
+            <node x="" y="">org.springframework.context.ConfigurableApplicationContext</node>
+            <node x="" y="">org.springframework.util.concurrent</node>
+            <node x="" y="">org.springframework.scheduling.TriggerContext</node>
+            <node x="" y="">org.springframework.lang.UsesJava7</node>
+            <node x="" y="">org.springframework.cglib.beans</node>
+            <node x="" y="">org.springframework.lang.UsesJava8</node>
+            <node x="" y="">org.springframework.dao.EmptyResultDataAccessException</node>
+            <node x="" y="">org.springframework.aop.AopInvocationException</node>
+            <node x="" y="">org.springframework.format.FormatterRegistry</node>
+            <node x="" y="">org.springframework.core.NestedRuntimeException</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.FieldTypeProvider</node>
+            <node x="" y="">org.springframework.validation.DataBinder</node>
+            <node x="" y="">org.springframework.core.MethodIntrospector.MetadataLookup</node>
+            <node x="" y="">org.springframework.transaction.InvalidIsolationLevelException</node>
+            <node x="" y="">org.springframework.context.weaving</node>
+            <node x="" y="">org.springframework.expression.common</node>
+            <node x="" y="">org.springframework.beans.TypeConverterSupport</node>
+            <node x="" y="">org.springframework.jca.context</node>
+            <node x="" y="">org.springframework.core.AttributeAccessorSupport</node>
+            <node x="" y="">org.springframework.util.FastByteArrayOutputStream</node>
+            <node x="" y="">org.springframework.jndi.support</node>
+            <node x="" y="">org.springframework.util.ReflectionUtils.FieldFilter</node>
+            <node x="" y="">org.springframework.asm.ClassWriter</node>
+            <node x="" y="">org.springframework.dao.InvalidDataAccessApiUsageException</node>
+            <node x="" y="">org.springframework.expression.EvaluationException</node>
+            <node x="" y="">org.springframework.util.backoff</node>
+            <node x="" y="">org.springframework.core.env</node>
+            <node x="" y="">org.springframework.jmx.support</node>
+            <node x="" y="">org.springframework.expression.TypeLocator</node>
+            <node x="" y="">org.springframework.ejb.config</node>
+            <node x="" y="">org.springframework.aop.Advisor</node>
+            <node x="" y="">org.springframework.core.NestedCheckedException</node>
+            <node x="" y="">org.springframework.context.ApplicationEventPublisherAware</node>
+            <node x="" y="">org.springframework.jndi.JndiObjectFactoryBean</node>
+            <node x="" y="">org.springframework.core.ExceptionDepthComparator</node>
+            <node x="" y="">org.springframework.transaction.TransactionSuspensionNotSupportedException</node>
+            <node x="" y="">org.springframework.util.AutoPopulatingList.ElementFactory</node>
+            <node x="" y="">org.springframework.format.number</node>
+            <node x="" y="">org.springframework.util.MimeTypeUtils</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper</node>
+            <node x="" y="">org.springframework.jndi.JndiLocatorSupport</node>
+            <node x="" y="">org.springframework.context.EnvironmentAware</node>
+            <node x="" y="">org.springframework.beans.NotReadablePropertyException</node>
+            <node x="" y="">org.springframework.util.WeakReferenceMonitor</node>
+            <node x="" y="">org.springframework.context.ApplicationContextInitializer</node>
+            <node x="" y="">org.springframework.core.OrderComparator.OrderSourceProvider</node>
+            <node x="" y="">org.springframework.cglib.core</node>
+            <node x="" y="">org.springframework.cglib.SpringCglibInfo</node>
+            <node x="" y="">org.springframework.expression.PropertyAccessor</node>
+            <node x="" y="">org.springframework.jdbc.JdbcUpdateAffectedIncorrectNumberOfRowsException</node>
+            <node x="" y="">org.springframework.context.event</node>
+            <node x="" y="">org.springframework.format.AnnotationFormatterFactory</node>
+            <node x="" y="">org.springframework.dao.NonTransientDataAccessResourceException</node>
+            <node x="" y="">org.springframework.jdbc.UncategorizedSQLException</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.EntryIterator</node>
+            <node x="" y="">org.springframework.beans.PropertyEditorRegistry</node>
+            <node x="" y="">org.springframework.scripting.jruby</node>
+            <node x="" y="">org.springframework.objenesis.ObjenesisSerializer</node>
+            <node x="" y="">org.springframework.util.ErrorHandler</node>
+            <node x="" y="">org.springframework.jmx.export</node>
+            <node x="" y="">org.springframework.expression.ExpressionInvocationTargetException</node>
+            <node x="" y="">org.springframework.jdbc.IncorrectResultSetColumnCountException</node>
+            <node x="" y="">org.springframework.validation.ValidationUtils</node>
+            <node x="" y="">org.springframework.dao.InvalidDataAccessResourceUsageException</node>
+            <node x="" y="">org.springframework.util.AlternativeJdkIdGenerator</node>
+            <node x="" y="">org.springframework.asm.Opcodes</node>
+            <node x="" y="">org.springframework.context.MessageSourceResolvable</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.Entry</node>
+            <node x="" y="">org.springframework.context.PayloadApplicationEvent</node>
+            <node x="" y="">org.springframework.aop.ThrowsAdvice</node>
+            <node x="" y="">org.springframework.validation.AbstractBindingResult</node>
+            <node x="" y="">org.springframework.validation.AbstractErrors</node>
+            <node x="" y="">org.springframework.scripting.config</node>
+            <node x="" y="">org.springframework.util.PatternMatchUtils</node>
+            <node x="" y="">org.springframework.beans.CachedIntrospectionResults</node>
+            <node x="" y="">org.springframework.core.PrioritizedParameterNameDiscoverer</node>
+            <node x="" y="">org.springframework.objenesis.ObjenesisStd</node>
+            <node x="" y="">org.springframework.beans.BeanInfoFactory</node>
+            <node x="" y="">org.springframework.cache.concurrent</node>
+            <node x="" y="">org.springframework.aop.ProxyMethodInvocation</node>
+            <node x="" y="">org.springframework.beans.PropertyValues</node>
+            <node x="" y="">org.springframework.core.task</node>
+            <node x="" y="">org.springframework.jndi.JndiTemplateEditor</node>
+            <node x="" y="">org.springframework.jndi.JndiLocatorDelegate</node>
+            <node x="" y="">org.springframework.scheduling.SchedulingTaskExecutor</node>
+            <node x="" y="">org.springframework.core.ParameterizedTypeReference</node>
+            <node x="" y="">org.springframework.expression.MethodExecutor</node>
+            <node x="" y="">org.springframework.jndi.JndiObjectLocator</node>
+            <node x="" y="">org.springframework.transaction.IllegalTransactionStateException</node>
+            <node x="" y="">org.springframework.remoting.RemoteAccessException</node>
+            <node x="" y="">org.springframework.util.WeakReferenceMonitor.ReleaseListener</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.Reference</node>
+            <node x="" y="">org.springframework.dao.CannotSerializeTransactionException</node>
+            <node x="" y="">org.springframework.beans.PropertyAccessException</node>
+            <node x="" y="">org.springframework.util.PathMatcher</node>
+            <node x="" y="">org.springframework.util.ObjectUtils</node>
+            <node x="" y="">org.springframework.context.ResourceLoaderAware</node>
+            <node x="" y="">org.springframework.beans.InvalidPropertyException</node>
+            <node x="" y="">org.springframework.scripting.groovy</node>
+            <node x="" y="">org.springframework.util.MultiValueMap</node>
+            <node x="" y="">org.springframework.cglib.util</node>
+            <node x="" y="">org.springframework.core.OrderComparator</node>
+            <node x="" y="">org.springframework.util.ResourceUtils</node>
+            <node x="" y="">org.springframework.core.CollectionFactory</node>
+            <node x="" y="">org.springframework.aop.MethodBeforeAdvice</node>
+            <node x="" y="">org.springframework.core.DefaultParameterNameDiscoverer</node>
+            <node x="" y="">org.springframework.context.EmbeddedValueResolverAware</node>
+            <node x="" y="">org.springframework.expression.Expression</node>
+            <node x="" y="">org.springframework.scheduling.annotation</node>
+            <node x="" y="">org.springframework.util.xml</node>
+            <node x="" y="">org.springframework.util.LinkedMultiValueMap</node>
+            <node x="" y="">org.springframework.beans.SimpleTypeConverter</node>
+            <node x="" y="">org.springframework.aop.RawTargetAccess</node>
+            <node x="" y="">org.springframework.util.Base64Utils.CommonsCodecBase64Delegate</node>
+            <node x="" y="">org.springframework.remoting.rmi</node>
+            <node x="" y="">org.springframework.core.ResolvableType.DefaultVariableResolver</node>
+            <node x="" y="">org.springframework.beans.propertyeditors</node>
+            <node x="" y="">org.springframework.asm.Item</node>
+            <node x="" y="">org.springframework.ui.ModelMap</node>
+            <node x="" y="">org.springframework.aop.config</node>
+            <node x="" y="">org.springframework.dao.OptimisticLockingFailureException</node>
+            <node x="" y="">org.springframework.beans.PropertyDescriptorUtils</node>
+            <node x="" y="">org.springframework.dao.DataIntegrityViolationException</node>
+            <node x="" y="">org.springframework.asm.Frame</node>
+            <node x="" y="">org.springframework.jca.work</node>
+            <node x="" y="">org.springframework.util.ReflectionUtils.FieldCallback</node>
+            <node x="" y="">org.springframework.expression.OperatorOverloader</node>
+            <node x="" y="">org.springframework.objenesis.SpringObjenesis</node>
+            <node x="" y="">org.springframework.aop.MethodMatcher</node>
+            <node x="" y="">org.springframework.util.AutoPopulatingList.ElementInstantiationException</node>
+            <node x="" y="">org.springframework.core.SpringVersion</node>
+            <node x="" y="">org.springframework.scheduling.concurrent</node>
+            <node x="" y="">org.springframework.beans.ExtendedBeanInfoFactory</node>
+            <node x="" y="">org.springframework.aop.TrueMethodMatcher</node>
+            <node x="" y="">org.springframework.scripting.bsh</node>
+            <node x="" y="">org.springframework.core.OverridingClassLoader</node>
+            <node x="" y="">org.springframework.scheduling.TaskScheduler</node>
+            <node x="" y="">org.springframework.transaction.SavepointManager</node>
+            <node x="" y="">org.springframework.context.ApplicationListener</node>
+            <node x="" y="">org.springframework.expression.BeanResolver</node>
+            <node x="" y="">org.springframework.util.StreamUtils.NonClosingOutputStream</node>
+            <node x="" y="">org.springframework.util.PropertiesPersister</node>
+            <node x="" y="">org.springframework.beans.DirectFieldAccessor.FieldPropertyHandler</node>
+            <node x="" y="">org.springframework.util.FastByteArrayOutputStream.FastByteArrayInputStream</node>
+            <node x="" y="">org.springframework.beans.GenericTypeAwarePropertyDescriptor</node>
+            <node x="" y="">org.springframework.validation.annotation</node>
+            <node x="" y="">org.springframework.util.ReflectionUtils.MethodCallback</node>
+            <node x="" y="">org.springframework.beans.AbstractPropertyAccessor</node>
+            <node x="" y="">org.springframework.jdbc.support</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.ReferenceManager</node>
+            <node x="" y="">org.springframework.scheduling.support</node>
+            <node x="" y="">org.springframework.cache.Cache.ValueRetrievalException</node>
+            <node x="" y="">org.springframework.asm.Type</node>
+            <node x="" y="">org.springframework.dao.IncorrectResultSizeDataAccessException</node>
+            <node x="" y="">org.springframework.aop.Pointcut</node>
+            <node x="" y="">org.springframework.cache.Cache</node>
+            <node x="" y="">org.springframework.core.MethodIntrospector</node>
+            <node x="" y="">org.springframework.beans.DirectFieldAccessor</node>
+            <node x="" y="">org.springframework.stereotype.Controller</node>
+            <node x="" y="">org.springframework.core.BridgeMethodResolver</node>
+            <node x="" y="">org.springframework.context.support</node>
+            <node x="" y="">org.springframework.validation.MessageCodeFormatter</node>
+            <node x="" y="">org.springframework.context.i18n</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.Task</node>
+            <node x="" y="">org.springframework.core.ResolvableType.VariableResolver</node>
+            <node x="" y="">org.springframework.core.ResolvableType.TypeVariablesVariableResolver</node>
+            <node x="" y="">org.springframework.validation.MessageCodesResolver</node>
+            <node x="" y="">org.springframework.dao.IncorrectUpdateSemanticsDataAccessException</node>
+            <node x="" y="">org.springframework.validation.BindException</node>
+            <node x="" y="">org.springframework.expression.ParseException</node>
+            <node x="" y="">org.springframework.context.LifecycleProcessor</node>
+            <node x="" y="">org.springframework.core.SerializableTypeWrapper.TypeProvider</node>
+            <node x="" y="">org.springframework.transaction.TransactionTimedOutException</node>
+            <node x="" y="">org.springframework.context.MessageSourceAware</node>
+            <node x="" y="">org.springframework.beans.PropertyValue</node>
+            <node x="" y="">org.springframework.dao.QueryTimeoutException</node>
+            <node x="" y="">org.springframework.core.JdkVersion</node>
+            <node x="" y="">org.springframework.util.ConcurrentReferenceHashMap.TaskOption</node>
+            <node x="" y="">org.springframework.context.ApplicationContext</node>
+            <node x="" y="">org.springframework.util.InstanceFilter</node>
+            <node x="" y="">org.springframework.beans.BeanWrapperImpl.BeanPropertyHandler</node>
+            <node x="" y="">org.springframework.cache.annotation</node>
+            <node x="" y="">org.springframework.expression.ConstructorResolver</node>
+            <node x="" y="">org.springframework.objenesis.Objenesis</node>
+            <node x="" y="">org.springframework.beans.ConfigurablePropertyAccessor</node>
+            <node x="" y="">org.springframework.util.StringUtils</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.684596577017115" x="604.0" y="247.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar!/org/springframework/context/ApplicationEventPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/event/QueryEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/QueryListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar!/org/springframework/context/ApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="56" column="35" lean-forward="false" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar!/org/springframework/context/ApplicationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="40" column="11" lean-forward="false" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/liu/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/dto/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/mapper/UserInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" column="106" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/service/UserInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/ShowCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/ShowHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/ShowParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="85" column="21" lean-forward="false" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="303" column="26" lean-forward="false" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/CommandParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#527#528#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/CommandManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/command/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/aop/ServiceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="60" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/service/impl/UserInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#469#470#0" expanded="false" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2447#2448#0" expanded="false" />
+            <element signature="e#2509#2510#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/validator/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+            <element signature="e#355#356#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/mapper/BaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/dto/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#341#342#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#488#489#0" expanded="false" />
+            <element signature="e#520#521#0" expanded="false" />
+            <element signature="e#668#669#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#886#887#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/HibernateValidatorFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar!/javax/validation/spi/BootstrapState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar!/javax/validation/spi/ValidationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/HibernateValidator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraints/Range.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraints/ParameterScriptAssert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraints/Email.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.2.4.Final/hibernate-validator-5.2.4.Final.jar!/org/hibernate/validator/constraintvalidation/HibernateConstraintValidatorContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="340" column="0" lean-forward="false" selection-start-line="340" selection-start-column="0" selection-end-line="340" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/liu/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
